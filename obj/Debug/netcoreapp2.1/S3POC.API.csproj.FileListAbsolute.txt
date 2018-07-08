@@ -1,0 +1,14 @@
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\bin\Debug\netcoreapp2.1\S3POC.API.deps.json
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\bin\Debug\netcoreapp2.1\S3POC.API.runtimeconfig.json
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\bin\Debug\netcoreapp2.1\S3POC.API.runtimeconfig.dev.json
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\bin\Debug\netcoreapp2.1\S3POC.API.dll
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\obj\Debug\netcoreapp2.1\S3POC.API.csprojAssemblyReference.cache
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\obj\Debug\netcoreapp2.1\S3POC.API.csproj.CoreCompileInputs.cache
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\obj\Debug\netcoreapp2.1\S3POC.API.RazorAssemblyInfo.cache
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\obj\Debug\netcoreapp2.1\S3POC.API.RazorAssemblyInfo.cs
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\obj\Debug\netcoreapp2.1\S3POC.API.AssemblyInfoInputs.cache
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\obj\Debug\netcoreapp2.1\S3POC.API.AssemblyInfo.cs
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\obj\Debug\netcoreapp2.1\S3POC.API.RazorTargetAssemblyInfo.cache
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\bin\Debug\netcoreapp2.1\S3POC.API.pdb
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\obj\Debug\netcoreapp2.1\S3POC.API.dll
+c:\users\imemarpour\documents\visual studio 2017\Projects\S3COP\S3POC.API\obj\Debug\netcoreapp2.1\S3POC.API.pdb
